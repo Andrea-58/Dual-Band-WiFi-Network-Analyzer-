@@ -176,6 +176,7 @@ Figure 22：Tracking device already exists
 (6) Long press the tracking device to cancel the tracking (Figure 23)
 
 (7) Click the settings button in the upper right corner to enter the tracking settings page (Figure 24)
+
 ![11](https://user-images.githubusercontent.com/83849573/117529124-5d829d00-b008-11eb-888f-8b25eab9539b.jpg)
 Figure 23：Device untracking
 ![22](https://user-images.githubusercontent.com/83849573/117529126-65dad800-b008-11eb-94c1-d17c35b512e1.jpg)
